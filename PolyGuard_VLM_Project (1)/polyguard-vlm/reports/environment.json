@@ -1,0 +1,11 @@
+{
+  "python": "3.12.14",
+  "direct_dependencies": {
+    "google-genai": "1.75.0",
+    "Pillow": "12.3.0",
+    "pydantic": "2.13.5",
+    "python-dotenv": "1.2.3"
+  },
+  "gemini_key_present": false,
+  "kaggle_credentials_present": false
+}

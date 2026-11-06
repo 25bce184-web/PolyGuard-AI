@@ -1,0 +1,7 @@
+{
+  "status": "blocked",
+  "error_type": "HTTPError",
+  "http_status": 403,
+  "source": "https://data.mendeley.com/datasets/k62rfd23kz/2",
+  "manual_fallback": "Open the dataset page, Download All; python -m src.main download --archive PATH.zip"
+}
